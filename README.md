@@ -1,0 +1,2 @@
+# Indirection
+GRASP: Indirection pronciple
